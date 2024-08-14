@@ -1,5 +1,11 @@
 # Chat
 
+Project created with command:
+
+```
+mix phx.new chat --no-ecto --no-gettext --no-mailer --no-dashboard
+```
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
